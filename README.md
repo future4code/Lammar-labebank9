@@ -5,7 +5,16 @@ Esse projeto é um POC desenvolvido seguindo os requisitos propostos.
 
 O arquivo ***request.rest*** incluso nos arquivos do repositório permite o teste e exame dos resultados dos endpoints.
 
-O projeto conta com um mock de banco de bados nomeado ***data.ts***
+O projeto conta com um mock de banco de bados nomeado ***data.ts***.
+</br>
+
+
+* Dependências:
+	* ts-node-dev
+	* Express
+	* Cors
+	* Typescript
+</br>
 
 Lista de endpoints disponíveis:
 
